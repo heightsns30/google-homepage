@@ -1,0 +1,22 @@
+​ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 13px;
+  }
+  
+  #sign-in {
+    color: white;
+    background: #4485f5;
+    font-weight: bold;
+    border: 1px solid #4485f5;
+    box-sizing: content-box;
+    line-height: 28px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 13px;
+    font-family: arial,sans-serif;
+  }
+  
+  .main {
+    text-align: center;
+    padding-top: 1
